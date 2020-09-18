@@ -29,8 +29,6 @@ https://githubrexplorer.netlify.app/
 * ReactJS
 * Styled Components
 
-<br>
-
 ## Instalação
 
 Primeiro de tudo: 
