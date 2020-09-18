@@ -1,11 +1,11 @@
 <br />
 <p align="center">
   <a>
-    <img alt="Github Explore" title="Github Explore" src="https://github.com/JosephMartins/github-explorer/blob/master/src/assets/logo_github.svg" width="450">
+    <img alt="Github Explore" title="Github Explore" src="https://github.com/JosephMartins/github-explorer/blob/master/src/assets/logo_github.svg" width="400">
   </a>
 </p>
 
-<p align="center">
+<p align="">
   Explore Repositórios do Github. Construído com ReactJS e Styled Components.
 </p>
 
