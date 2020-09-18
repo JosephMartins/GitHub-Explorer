@@ -5,9 +5,9 @@
   </a>
 </p>
 
-<p align="">
+<h3 align="">
   Explore Repositórios do Github. Construído com ReactJS e Styled Components.
-</p>
+</h3>
 
 ## Deploy no  netlifly
 
@@ -15,14 +15,19 @@ https://githubrexplorer.netlify.app/
 
 
 
-## Features
-
-Objetivo do projeto é:
+## Descriçao
 
 * Explorar repositórios do github e adiciona-los em sua lista
 * Ver a lista de Issues de um repositório
 * Ver a lista de Forks de um repositório
 * Ver a lista de Stargazers de um repositório
+
+## Techs
+
+* HTML
+* CSS
+* ReactJS
+* Styled Components
 
 <br>
 
