@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  Explore incríveis Repositórios Github. Construído com ReactJS e componentes estilizados.
+  Explore Repositórios do Github. Construído com ReactJS e Styled Components.
 </p>
 
 ## Deploy no  netlifly
