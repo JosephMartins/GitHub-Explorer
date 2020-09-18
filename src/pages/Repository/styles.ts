@@ -80,6 +80,11 @@ export const RepositoryInfo = styled.section`
         display:flex;
         flex-direction: column;
         align-items: center;
+
+        strong{
+        font-size: 18px;
+
+        }
       }
     }
   }
@@ -125,5 +130,5 @@ export const Issues = styled.div`
     a{
       word-break: break-all;
     }
-  }
+  };
 `;
