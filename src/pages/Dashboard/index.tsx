@@ -6,7 +6,6 @@ import api from '../../services/api';
 import logoImg from '../../assets/logo_github.svg';
 
 import { Title, Form, Repositories, Error } from './styles';
-import repository from '../Repository';
 
 // coloque apenas a tipagem no que vc ira utilizar
 interface Repository {
@@ -55,9 +54,9 @@ const Dashboard: React.FC = () => {
     try {
       const response = await api.get<Repository>(`repos/${newRepo}`);
 
-      const respoitory = response.data;
+      const repository = response.data;
 
-      setRepositories([...repositories, respoitory]);
+      setRepositories([...repositories, repository]);
       setNewRepo('');
       setInputError('');
     } catch (error) {
