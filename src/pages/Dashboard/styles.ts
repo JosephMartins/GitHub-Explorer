@@ -113,5 +113,11 @@ export const Repositories = styled.div`
       color: #cbcbd6;
     }
   }
+
+  @media(max-width: 800px) {
+    a{
+      word-break: break-all;
+    }
+  }
 `;
 // yarn add polished
