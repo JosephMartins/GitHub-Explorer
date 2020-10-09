@@ -23,7 +23,7 @@ https://githubrexplorer.netlify.app/
 * Ver a lista de Stargazers de um repositório
 
 ## Techs
-
+ 
 * HTML
 * CSS
 * ReactJS
