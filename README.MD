@@ -32,7 +32,7 @@ https://githubrexplorer.netlify.app/
 ## Instalação
 
 Primeiro de tudo: 
-
+ 
 ```
   git clone https://github.com/JosephMartins/github-explorer
 ```
